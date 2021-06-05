@@ -1,0 +1,13 @@
+source img :
+
+slider :
+- https://allinkpop.com/?SID=9pd9jncp0nhhnorvu3pvq5gock
+
+product :
+-
+
+icon :
+- https://figma.com
+- https://www.clipartmax.com/middle/m2H7K9H7b1G6K9N4_customer-helpdesk-call-center-icon-vector/
+- http://www.pngall.com/free-shipping-png/download/6305
+- https://www.transparentpng.com/download/30-day-money-back-guarantee-transparent-background_15983.html
