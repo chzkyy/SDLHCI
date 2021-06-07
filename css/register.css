@@ -1,5 +1,9 @@
-/*===== GOOGLE FONTS =====*/
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+/*===== FONTS =====*/
+@font-face {
+  font-family: Open Sans;
+  src: url(/font/Open_Sans/OpenSans-Regular.ttf);
+  src: url(/font/Open_Sans/OpenSans-SemiBold.ttf);
+}
 
 /*===== variable CSS =====*/
 :root {
